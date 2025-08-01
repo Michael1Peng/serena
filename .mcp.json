@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "serena": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/Users/Shared/repositories/oraios/serena",
+        "serena",
+        "start-mcp-server"
+      ]
+    }
+  }
+}
