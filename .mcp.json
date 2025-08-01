@@ -1,14 +1,8 @@
 {
   "mcpServers": {
     "serena": {
-      "command": "uv",
-      "args": [
-        "run",
-        "--directory",
-        "/Users/Shared/repositories/oraios/serena",
-        "serena",
-        "start-mcp-server"
-      ]
+      "type": "sse",
+      "url": "http://localhost:9121/sse"
     }
   }
 }
